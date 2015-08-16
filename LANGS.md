@@ -1,0 +1,6 @@
+* [English](en)
+* [Polski](pl)
+* [Українська](uk)
+* [Español (beta)](es)
+* [Français (beta)](fr)
+* [Português-brasileiro (beta)](pt/)
